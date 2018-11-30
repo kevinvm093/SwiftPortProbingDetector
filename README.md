@@ -2,4 +2,4 @@
 # SwiftPortProbingDetector
 
 
-![ScreenShot](https://raw.github.com/{kevinvm093}/{SwiftPortProbingDetector}/{master}/{wiftPortProbingDetector/Screenshot1.png})
+![ScreenShot](https://raw.github.com/{kevinvm093}/{SwiftPortProbingDetector}/{master}/{SwiftPortProbingDetector/Screenshot1.png)
